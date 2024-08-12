@@ -2,7 +2,7 @@
 
 Meu nome é Marcelo Clementino de Sá
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem Javascript
 - Utilizo esse espaço para minha organização e compartilhamento do meu projetos desenvolvidos
  
@@ -11,8 +11,8 @@ Meu nome é Marcelo Clementino de Sá
  Marcelinhofk070@gmail.com
 
 
+![](https://media1.tenor.com/m/t-oNZeAod-MAAAAC/satan-dancing.gif)
 
-https://media1.tenor.com/m/t-oNZeAod-MAAAAC/satan-dancing.gif
 
 
 
